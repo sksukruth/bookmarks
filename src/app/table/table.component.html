@@ -1,0 +1,20 @@
+<div style="text-align: center;">
+    <table border="1" id="users">
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>User Email</th>
+                <th>Tenant ID</th>
+                <th>Advance Filter Query</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr *ngFor="let data of responseObj">
+                <td>{{data.id}}</td>
+                <td>{{data.userEmail}}</td>
+                <td>{{data.tenantID}}</td>
+                <td>{{data.advancefilterquery[0].queryName}} , {{data.advancefilterquery[0].queryData}}</td>
+            </tr>
+        </tbody>
+    </table>
+</div>

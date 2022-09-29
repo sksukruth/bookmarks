@@ -1,0 +1,368 @@
+{
+   "checksum": "02dc3c6399c61bcf88485fc9bf46130b",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13302611566418708",
+            "guid": "5d1ee4eb-de8c-4b37-bdae-949f0bb600af",
+            "id": "6",
+            "name": "YouTube",
+            "type": "url",
+            "url": "https://youtube.com/"
+         }, {
+            "children": [ {
+               "date_added": "13307433868691650",
+               "guid": "7845b34c-0f70-40a6-a24e-97f17677cd82",
+               "id": "61",
+               "name": "Enterprise Management Web Portal - Staging",
+               "type": "url",
+               "url": "https://em-research-staging.symphonyindai.com/em/pages/assets"
+            }, {
+               "date_added": "13307102437179867",
+               "guid": "04d4b332-c5b2-4f57-b2c6-62d18d618dcb",
+               "id": "55",
+               "name": "Banana Cake Pop - Staging",
+               "type": "url",
+               "url": "https://em-research-staging.symphonyindai.com/api/asset/bananacake/"
+            }, {
+               "date_added": "13307189765200915",
+               "guid": "d7f4319d-4223-4f44-b42e-003d117175e5",
+               "id": "58",
+               "name": "Local - Enterprise Management Web Portal",
+               "type": "url",
+               "url": "http://localhost:4200/pages/assets"
+            }, {
+               "date_added": "13307434151208099",
+               "guid": "e67b8990-d6ae-4573-979c-871ca6f40926",
+               "id": "63",
+               "name": "Banana Cake Pop - Local",
+               "type": "url",
+               "url": "https://localhost:7260/api/asset/bananacake/"
+            }, {
+               "date_added": "13307434090586402",
+               "guid": "bfe45527-e3fd-4583-a197-7abbe27dfc67",
+               "id": "62",
+               "name": "ACL - Swagger UI",
+               "type": "url",
+               "url": "https://localhost:44386/swagger/index.html"
+            }, {
+               "date_added": "13306835712719561",
+               "guid": "bfe8bb4c-3164-4440-8c44-c9092f0ff9ae",
+               "id": "36",
+               "name": "Login | FusionAuth",
+               "type": "url",
+               "url": "https://fusionauth-staging.symphonyindai.com/oauth2/authorize?client_id=2c07e1db-6355-4088-8bed-45a841df0433&redirect_uri=https://em-research-staging.symphonyindai.com/api/auth/redirect&response_type=code&state=%7B%22app_id%22%3A+%222c07e1db-6355-4088-8bed-45a841df0433%22%2C+%22dest_url%22%3A+%22http%3A%2F%2Fem-research-staging.symphonyindai.com%2Fem%2Fpages%2Fassets%22%2C+%22redirect_uri%22%3A+%22https%3A%2F%2Fem-research-staging.symphonyindai.com%2Fapi%2Fauth%2Fredirect%22%2C+%22domain%22%3A+%22em-research-staging.symphonyindai.com%22%7D"
+            }, {
+               "date_added": "13307088344085323",
+               "guid": "4e87cd76-929b-452e-9394-07bff22b6c27",
+               "id": "54",
+               "name": "Get started with Hot Chocolate | ChilliCream GraphQL Platform",
+               "type": "url",
+               "url": "https://chillicream.com/docs/hotchocolate/get-started"
+            } ],
+            "date_added": "13306835735093403",
+            "date_modified": "13307520464033694",
+            "guid": "d2cf4d07-0ae0-4aed-879f-78815db011ec",
+            "id": "37",
+            "name": "EM",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13307110084652271",
+               "guid": "4d73901f-fa39-469b-ad0d-9e47c8f7dfbb",
+               "id": "57",
+               "name": "Azure DevOps",
+               "type": "url",
+               "url": "https://savigent.visualstudio.com/Enterprise%20Management"
+            }, {
+               "date_added": "13307087708862505",
+               "guid": "6c597de6-ec4c-480f-b2ab-a71d586d8918",
+               "id": "53",
+               "name": "EM Repos",
+               "type": "url",
+               "url": "https://savigent.visualstudio.com/Enterprise%20Management/_git/DeploymentQuerySvc"
+            }, {
+               "date_added": "13307520437684895",
+               "guid": "78a1ec2d-bd7d-4820-8a4b-8074a7ebccd7",
+               "id": "65",
+               "name": "My Work Items",
+               "type": "url",
+               "url": "https://savigent.visualstudio.com/Enterprise%20Management/_queries/query/044cd1c7-fdd0-4689-b386-08f6b08a213e/"
+            } ],
+            "date_added": "13307520529986620",
+            "date_modified": "13307520544475806",
+            "guid": "85d6b02b-1d54-4e60-95e6-b6495cfc7f89",
+            "id": "66",
+            "name": "DevOps",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13305239769950755",
+               "guid": "5c962b6c-b341-4c3e-85fd-b0a0f0aaceee",
+               "id": "25",
+               "name": "Angular 12 tutorial for beginners",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=oMj95u2zK4Y&list=PL8p2I9GklV47eNpoo4Fr6fkags72a8F0v"
+            }, {
+               "date_added": "13305309245431592",
+               "guid": "8633872a-b29b-49bf-8f5c-19680d92b1c8",
+               "id": "27",
+               "name": "How to Build an Angular ToDo App in 6 Easy Steps using CLI | Blogs",
+               "type": "url",
+               "url": "https://www.teclogiq.com/blog/angular-todo-application/"
+            }, {
+               "date_added": "13305650512607867",
+               "guid": "0c05757b-caea-4c19-8658-a2080511e35d",
+               "id": "29",
+               "name": "Namaste JavaScript 🙏 Course - JS Video Tutorials by Akshay Saini - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=pN6jk0uUrD8&list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP"
+            }, {
+               "date_added": "13305650673287096",
+               "guid": "f3d61f78-3cfb-4bfb-baf3-44d7b1151bfd",
+               "id": "30",
+               "name": "Top 40+ Angular Interview Questions and Answers (2022) - InterviewBit",
+               "type": "url",
+               "url": "https://www.interviewbit.com/angular-interview-questions/"
+            }, {
+               "date_added": "13305652204500013",
+               "guid": "4b5a213a-7fe7-45f9-bec5-c4b6377ff5dc",
+               "id": "31",
+               "name": "Parameter Binding in ASP.NET Web API - ASP.NET 4.x | Microsoft Docs",
+               "type": "url",
+               "url": "https://docs.microsoft.com/en-us/aspnet/web-api/overview/formats-and-model-binding/parameter-binding-in-aspnet-web-api"
+            }, {
+               "date_added": "13305706005407792",
+               "guid": "7dcd3f6c-399b-41c6-9756-327735958352",
+               "id": "32",
+               "name": "Angular Tutorial for Beginners - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=htPYk6QxacQ"
+            }, {
+               "date_added": "13305730519358848",
+               "guid": "3524cc4f-ffee-4a12-bdf9-19898def8e5b",
+               "id": "33",
+               "name": "How To Add Data Dynamically In A Table In Angular || Angular || Angular Tutorial || Angular Course - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=NcBW26vh_3A"
+            }, {
+               "date_added": "13306916807496438",
+               "guid": "cb017bb4-1380-4e8d-b2fd-4c904fad4507",
+               "id": "38",
+               "name": "Angular playlist | procademy ",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=NMzl2pGOK_8&list=PL1BztTYDF-QNrtkvjkT6Wjc8es7QB4Gty"
+            }, {
+               "date_added": "13306999023113715",
+               "guid": "ce7456c7-1772-4d72-a37d-5c11063cb0d4",
+               "id": "41",
+               "name": "GitHub - DanWahlin/Angular-Core-Concepts: Provides a simple demo application covering Angular core concepts (components, services, modules, routing)",
+               "type": "url",
+               "url": "https://github.com/DanWahlin/Angular-Core-Concepts"
+            }, {
+               "date_added": "13306999037383649",
+               "guid": "414043f5-eb86-49aa-9bd1-9ea1d550328a",
+               "id": "42",
+               "name": "Angular 12 2021 | Routing | LazyLoading | AuthGuard | multiple router-outlet | all in one video - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=ibn2yAomxp8"
+            }, {
+               "date_added": "13306999099549040",
+               "guid": "799569d6-d126-4fc9-a7d0-6aac45317892",
+               "id": "43",
+               "name": "BehaviorSubject | RxJS TUTORIAL - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=-mwNLRbfKmU&list=PL55RiY5tL51pHpagYcrN9ubNLVXF8rGVi&index=12"
+            }, {
+               "date_added": "13306999109218067",
+               "guid": "41ae30dd-aafb-4822-9b1c-b68f2bf4772c",
+               "id": "44",
+               "name": "RxJS - What and Why? - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=T9wOu11uU6U&list=PL55RiY5tL51pHpagYcrN9ubNLVXF8rGVi&index=1"
+            }, {
+               "date_added": "13306999121613465",
+               "guid": "c10bf9b8-6658-45f3-8b3e-6bd80a99741b",
+               "id": "45",
+               "name": "Understanding RxJS - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/playlist?list=PL55RiY5tL51pHpagYcrN9ubNLVXF8rGVi"
+            }, {
+               "date_added": "13306999146153452",
+               "guid": "1e4d4c06-ffd6-4461-8945-201e11997271",
+               "id": "46",
+               "name": "Ngrx-store - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/playlist?list=PLS8DOA3NcQpavgGKiliX4kOjYQp9wYIMq"
+            } ],
+            "date_added": "13305239800055226",
+            "date_modified": "13306999203538028",
+            "guid": "574fc0a4-96b4-49f3-b56a-4985284ec573",
+            "id": "26",
+            "name": "Frontend",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13307016773427755",
+               "guid": "5f0b188e-915a-45ea-b499-fcaeb823e4fd",
+               "id": "50",
+               "name": "C# Debugging with Visual Studio",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=2KgodnxuRhM"
+            }, {
+               "date_added": "13307018227287268",
+               "guid": "4973de90-558b-431e-9701-f5a73c1c7190",
+               "id": "52",
+               "name": "C# Tutorial playlist",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=P2BIyO9q_yY&list=PLih2KERbY1HHt2d9vpQRBz_cSl1ZBHG-V"
+            } ],
+            "date_added": "13307016789533626",
+            "date_modified": "13307087708862505",
+            "guid": "e60a3f34-51fa-4ebd-82d9-fec11fef43f3",
+            "id": "51",
+            "name": "Backend",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13304157064413296",
+               "guid": "b0647571-bada-41e1-8998-f3facbc16b6b",
+               "id": "11",
+               "name": "GitHub - MoienTajik/AspNetCore-Developer-Roadmap: Roadmap to becoming an ASP.NET Core developer in 2022",
+               "type": "url",
+               "url": "https://github.com/MoienTajik/AspNetCore-Developer-Roadmap"
+            }, {
+               "date_added": "13304151124016200",
+               "guid": "bbca117a-c566-4d61-8f2b-09793439830e",
+               "id": "9",
+               "name": "Tutorial: Open a project from a repo in Visual Studio - Visual Studio (Windows) | Microsoft Docs",
+               "type": "url",
+               "url": "https://docs.microsoft.com/en-us/visualstudio/get-started/tutorial-open-project-from-repo?view=vs-2022"
+            }, {
+               "date_added": "13304549069861759",
+               "guid": "4756898f-2523-457f-85b1-572bd2111854",
+               "id": "13",
+               "name": "c# - log4net in .NET core 6 - Stack Overflow",
+               "type": "url",
+               "url": "https://stackoverflow.com/questions/71611540/log4net-in-net-core-6"
+            }, {
+               "date_added": "13304552949187276",
+               "guid": "00ea572a-b3b0-4f57-ab5e-22ab37158e88",
+               "id": "14",
+               "name": "Log4net Tutorial for .NET Logging: 14 Best Practices and Examples",
+               "type": "url",
+               "url": "https://stackify.com/log4net-guide-dotnet-logging/"
+            }, {
+               "date_added": "13304668437039224",
+               "guid": "5604386c-5184-431d-a479-3fa172e9fe28",
+               "id": "15",
+               "name": "Complete CRUD Web Application In .Net Core Web API & MongoDB In Hindi With Detail Explanation. - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=j8ksENi21jc"
+            }, {
+               "date_added": "13304730759703954",
+               "guid": "949de1cb-3386-4aca-b0c9-4b10cc49b1fd",
+               "id": "16",
+               "name": "c# - Unknown discriminator value MongoDB - Stack Overflow",
+               "type": "url",
+               "url": "https://stackoverflow.com/questions/43312039/unknown-discriminator-value-mongodb"
+            }, {
+               "date_added": "13305126820084042",
+               "guid": "cc9dcd95-50ec-4869-8524-f38d062437de",
+               "id": "17",
+               "name": "How to serialize and deserialize JSON using C# - .NET | Microsoft Docs",
+               "type": "url",
+               "url": "https://docs.microsoft.com/en-us/dotnet/standard/serialization/system-text-json-how-to?pivots=dotnet-6-0"
+            }, {
+               "date_added": "13305156991166940",
+               "guid": "71638c66-f41b-47ec-ac59-6bf284866bc7",
+               "id": "18",
+               "name": "Return a JSON string explicitly from Asp.net WEBAPI? - Stack Overflow",
+               "type": "url",
+               "url": "https://stackoverflow.com/questions/17097841/return-a-json-string-explicitly-from-asp-net-webapi?noredirect=1&lq=1"
+            }, {
+               "date_added": "13305189523894011",
+               "guid": "d892e05e-6a1d-40d1-aa99-8f6d5caa129a",
+               "id": "19",
+               "name": "Up & Running w/ OData in ASP.NET 6 - OData",
+               "type": "url",
+               "url": "https://devblogs.microsoft.com/odata/up-running-w-odata-in-asp-net-6/#comments"
+            } ],
+            "date_added": "13304151197503224",
+            "date_modified": "13305239731369976",
+            "guid": "036f3244-9360-44f8-baa9-ffcd88d6198a",
+            "id": "10",
+            "name": "C#",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13306998939546818",
+               "guid": "3f017222-10ed-4441-8ca1-40045d8f9bff",
+               "id": "39",
+               "name": "Statemgmtui",
+               "type": "url",
+               "url": "http://localhost:4200/grid"
+            }, {
+               "date_added": "13305902937556101",
+               "guid": "a51ce7e2-76ae-4e42-a191-98bb273f6765",
+               "id": "34",
+               "name": "Angular Data Grid | Build Fast Angular Tables | Infragistics",
+               "type": "url",
+               "url": "https://www.infragistics.com/products/ignite-ui-angular/angular/components/grid/grid"
+            }, {
+               "date_added": "13306999203538028",
+               "guid": "86ec2946-940e-4406-91ef-229af1dcdead",
+               "id": "47",
+               "name": "statemanagement - Mongo Express",
+               "type": "url",
+               "url": "http://localhost:8081/db/EnterpriseManagement/statemanagement"
+            }, {
+               "date_added": "13306999213271836",
+               "guid": "8bf3470b-18eb-452a-91d8-f49aa9c97be3",
+               "id": "48",
+               "name": "Home - Mongo Express",
+               "type": "url",
+               "url": "http://localhost:8081/"
+            }, {
+               "date_added": "13307015960035188",
+               "guid": "6e76b1b3-badd-4b7e-b487-61de2e58267a",
+               "id": "49",
+               "name": "Complete Angular 13 Course Step by Step - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/playlist?list=PL1BztTYDF-QNrtkvjkT6Wjc8es7QB4Gty"
+            } ],
+            "date_added": "13306998971568316",
+            "date_modified": "13307016773427755",
+            "guid": "066b28a7-2116-4f8d-a3ef-685a28e5d02b",
+            "id": "40",
+            "name": "Demo Project",
+            "type": "folder"
+         } ],
+         "date_added": "13302610907833015",
+         "date_modified": "13307520534655056",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13302610907833019",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13302610907833021",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
